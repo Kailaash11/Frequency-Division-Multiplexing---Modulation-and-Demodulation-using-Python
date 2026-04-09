@@ -31,7 +31,9 @@ __Procedure__:
 6 — Receiver: isolate each channel with bandpass filter
 
 7 — Demodulate each isolated channel (coherent) and low-pass filter to recover baseband
+
 __Program__:
+
 <img width="1558" height="1600" alt="image" src="https://github.com/user-attachments/assets/50d61dde-b2b0-4947-b856-827ca30cb067" />
 
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/383d01e3-7bc4-4f30-a975-df4288bfe7f2" />
